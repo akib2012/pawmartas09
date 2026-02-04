@@ -16,6 +16,9 @@ const Regester = () => {
 
   // console.log(userregester);
 
+
+  /* here added the validation process  */
+
   const hadnleregester = (e) => {
     e.preventDefault();
 
